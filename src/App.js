@@ -6,7 +6,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Header from './components/Header';
  
-import Home from './routes/Home';
+import Home from './routes/home/home';
 import About from './routes/About';
 import Posts from './routes/Posts';
 import Login from './routes/Login';
